@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MovieDB", "..\..\Visual Studio 2015\Projects\MovieDataBase\MovieDB\MovieDB.xproj", "{C19B8892-D62F-4BB9-A340-21D1AAD7EA8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{91B1EF95-7A0D-4309-A3D2-3E09532CDDC0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Visual Studio 2015\Projects\MovieDataBase\MovieDB\global.json = ..\..\Visual Studio 2015\Projects\MovieDataBase\MovieDB\global.json
+		..\..\Visual Studio 2015\Projects\MovieDataBase\WE-Palette.css = ..\..\Visual Studio 2015\Projects\MovieDataBase\WE-Palette.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C19B8892-D62F-4BB9-A340-21D1AAD7EA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19B8892-D62F-4BB9-A340-21D1AAD7EA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19B8892-D62F-4BB9-A340-21D1AAD7EA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19B8892-D62F-4BB9-A340-21D1AAD7EA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
